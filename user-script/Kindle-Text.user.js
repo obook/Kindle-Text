@@ -2,7 +2,7 @@
 // @name         Kindle-Text
 // @description  Adds live button, show a new window for copy Kindle text. CHANGE @match regarding your reader URL
 // @author       obook
-// @version	 1 beta
+// @version      2
 // @licence      MIT License (MIT)
 // @namespace    Violentmonkey Scripts
 // @match        https://lire.amazon.fr/*
